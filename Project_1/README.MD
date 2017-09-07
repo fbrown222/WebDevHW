@@ -26,7 +26,7 @@ My skills usually pertain to:
 - eating all the sushi in existance
 ---
 
-**IF** you'd like I can reccommend you a *great* K-pop song called [Not Today](https://www.youtube.com/watch?v=9DwzBICPhdM) Because although almost everything I am learning from this class is compeltely new to me, and seems extremely daunting,to that I say: **NOT TODAY**!!! ...*not today*.
+**IF** you'd like I can reccommend you a *great* K-pop song called [Not Today](https://www.youtube.com/watch?v=9DwzBICPhdM) Because although almost everything I am learning from this class is compeltely new to me, and seems extremely daunting, to that I say: **NOT TODAY**!!! ...*not today*.
 
 
 
@@ -63,4 +63,4 @@ I had a **TON** of trouble getting GitHub to open in Atom. It really didn't make
 
 I think it is safe to say, overall, I struggled with everything. It's good to struggle a little right? I had issues with my image not showing up on GitHub for my ReadMe and my index.html not committing but was able to use the issues board for help.
 
-For the wayback machine I explored Google and Yahoo. Oh my have we come so far. The artist I looked at was Coldplay. They also came a long way. As was probably typical, all the websites just had simple links and pictures that seem elementary now. Today they have all come so far, and improved so much with fonts, images, and animation. 
+For the wayback machine I explored Google and Yahoo. Oh my have we come so far. The artist I looked at was Coldplay. They also came a long way. As was probably typical, all the websites just had simple links and pictures that seem elementary now. Today they have all come so far, and improved so much with fonts, images, and animation.
