@@ -52,7 +52,7 @@ lines.
 
 ---
 
-And to finish, here is my screenshot
+And to finish, here is my screenshot:
 
  ![Screenshot Of my Directory](./images/Screen_Shot_1.png)
 
