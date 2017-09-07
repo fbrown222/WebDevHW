@@ -60,3 +60,7 @@ And to finish, here is my screenshot: ![Screenshot Of my Directory](./images/Scr
 Overall I think the process wasn't difficult, just a bit tedious.
 
 I had a **TON** of trouble getting GitHub to open in Atom. It really didn't make sense at all. I had to uninstall and reinstall a few times before it worked.
+
+I think it is safe to say, overall, I struggled with everything. It's good to struggle a little right? I had issues with my image not showing up on GitHub for my ReadMe and my index.html not committing but was able to use the issues board for help.
+
+For the wayback machine I explored Google and Yahoo. Oh my have we come so far. The artist I looked at was Coldplay. They also came a long way. As was probably typical, all the websites just had simple links and pictures that seem elementary now. Today they have all come so far, and improved so much with fonts, images, and animation. 
