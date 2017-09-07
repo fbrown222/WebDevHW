@@ -10,6 +10,7 @@ I already know I'm not the best with coding, so I think this course will be very
 
 
 
+
 ---
 
 1. succeed
@@ -57,4 +58,4 @@ And to finish, here is my screenshot: ![Screenshot Of my Directory](./images/Scr
 
 Overall I think the process wasn't difficult, just a bit tedious.
 
-I had a **TON** of trouble getting GitHub to open in Atom. It really didn't make sense at all. I had to uninstall and reinstall a few times before it worked. 
+I had a **TON** of trouble getting GitHub to open in Atom. It really didn't make sense at all. I had to uninstall and reinstall a few times before it worked.
