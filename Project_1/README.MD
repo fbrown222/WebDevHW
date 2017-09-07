@@ -52,8 +52,7 @@ lines.
 
 ---
 
-And to finish, here is my screenshot: ![Screenshot Of my Directory](./WebDevHW/Project_1/images/Screen_Shot_1.png) 
-
+And to finish, here is my screenshot: ![Screenshot Of my Directory](./images/Screen_Shot_1.png)
 
 
 ** I DID IT!!!**
