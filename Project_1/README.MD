@@ -57,4 +57,4 @@ And to finish, here is my screenshot: ![Screenshot Of my Directory](./images/Scr
 
 Overall I think the process wasn't difficult, just a bit tedious.
 
-Another line of text.
+I had a **TON** of trouble getting GitHub to open in Atom. It really didn't make sense at all. I had to uninstall and reinstall a few times before it worked. 
