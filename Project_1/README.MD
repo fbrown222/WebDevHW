@@ -1,0 +1,58 @@
+# My First README.md
+
+## Ferrol Brown
+
+**This class though...**
+
+I can already tell this class is going to be a heavy one that requires a lot of my time...and patience. Gettin all the programs downloaded was eye opening as well.
+
+I already know I'm not the best with coding, so I think this course will be very daunting and intimidating to me. I will try my best, and I'm *sure* I will either:
+
+
+
+---
+
+1. succeed
+2. barely make it
+
+---
+
+My skills usually pertain to:
+
+---
+- watching Netflix
+- listening to K-pop
+- eating all the sushi in existance
+---
+
+**IF** you'd like I can reccommend you a *great* K-pop song called [Not Today](https://www.youtube.com/watch?v=9DwzBICPhdM) Because although almost everything I am learning from this class is compeltely new to me, and seems extremely daunting,to that I say: **NOT TODAY**!!! ...*not today*.
+
+
+
+```markdown
+# I think I'm beginning to understand markdowns.
+## But I know it will take some time.
+### But I've got --- down like nobody's business.
+#### I could do it all day.
+
+```
+
+---
+I
+
+---
+love
+
+---
+horizontal
+
+---
+lines.
+
+---
+
+And to finish, here is my screenshot: ![Screenshot Of my Directory](./images/Screen_Shot_1.png)
+
+** I DID IT!!!**
+
+Overall I think the process wasn't difficult, just a bit tedious.
