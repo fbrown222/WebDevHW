@@ -26,7 +26,7 @@ My skills usually pertain to:
 - eating all the sushi in existance
 ---
 
-**IF** you'd like I can reccommend you a *great* K-pop song called [Not Today](https://www.youtube.com/watch?v=9DwzBICPhdM) Because although almost everything I am learning from this class is compeltely new to me, and seems extremely daunting, to that I say: **NOT TODAY**!!! ...*not today*.
+**IF** you'd like I can reccommend you a *great* K-pop song called [Not Today](https://www.youtube.com/watch?v=9DwzBICPhdM), because although almost everything I am learning from this class is compeltely new to me, and seems extremely daunting, to that I say: **NOT TODAY**!!! ...*not today*.
 
 
 
