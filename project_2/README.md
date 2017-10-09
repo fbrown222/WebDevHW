@@ -62,4 +62,18 @@ I really liked that I was able to play a little bit with colors and fonts in thi
 
 Overall I think the process wasn't difficult, just a bit tedious, again, like the last project.
 
-As *always* I had some struggles here and there with HTML, but thankfully the internet is full of resources and people like me that make the same mistakes that I do. I am also able to learn a lot from the Github issues, with my classmates. 
+As *always* I had some struggles here and there with HTML, but thankfully the internet is full of resources and people like me that make the same mistakes that I do. I am also able to learn a lot from the Github issues, with my classmates.
+
+**Week 2 updates**
+
+I *definitely* noticed my mistakes I made from the first week. I really didn't read the instructions that well. I think I was really in too much of a rush to try and finish before the deadline. It pays to **READ**. BUT! This is how we learn; we make mistakes.
+
+---
+
+I only had a little trouble with a few images, but it was easily fixed when I remembered we had to put an extra "." in the source:
+
+```markdown
+<../images/rice.jpg> instead of <./images/rice.jpg>
+```
+
+Any hoodle doodle...I'm not sure I would say I am a coding master by any means, but I am starting to get the hang of it more. I think if I used it more, I would remember more over time. But like any language you have to keep at it to learn it better and to retain it. 
