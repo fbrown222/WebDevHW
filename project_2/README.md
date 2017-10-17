@@ -76,4 +76,4 @@ I only had a little trouble with a few images, but it was easily fixed when I re
 <../images/rice.jpg> instead of <./images/rice.jpg>
 ```
 
-Any hoodle doodle...I'm not sure I would say I am a coding master by any means, but I am starting to get the hang of it more. I think if I used it more, I would remember more over time. But like any language you have to keep at it to learn it better and to retain it. 
+Any hoodle doodle...I'm not sure I would say I am a coding master by any means, but I am starting to get the hang of it more. I think if I used it more, I would remember more over time. But like any language you have to keep at it to learn it better and to retain it.
