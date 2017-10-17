@@ -77,3 +77,18 @@ I only had a little trouble with a few images, but it was easily fixed when I re
 ```
 
 Any hoodle doodle...I'm not sure I would say I am a coding master by any means, but I am starting to get the hang of it more. I think if I used it more, I would remember more over time. But like any language you have to keep at it to learn it better and to retain it.
+
+**Week 3 Update**
+
+My problems for week three were mainly with media. I had trouble getting my video (first hosted) to work. I eventually got it to work with I can only assume is magic, because I didn't really do anything wrong...I think. I want to blame Atom, but I know I'm usually the one to make mistakes. Alas, I'm still confused. For example: I made an update, and it did not work on the live site. I did nothing, and checked again after an hour or so, and the problem was gone on the live site. So, thus, I conclude it was magic.
+---
+I don't *really* enjoy coding so much, but I don't *really* hate it either. I've learned in my 25 years of living, that sometimes those kinds of things are the best. Balance. I still find coding intimidating, because everything is really new to me. I know with time and practice, it'll become easier, just like learning a speaking language. I have to use it more, to remember it more.
+---
+What can I do to improve?
+1. I need to practice html5 more
+2. My forms were a bit atrocious
+
+---
+-Although I need to practice html5 more, I have a hard time, and have to force myself.
+-My forms were atrocious because they were so tedious to make, and I got too frustrated to clean them up to how I really wanted them to look.
+-Once I'm more proficient in html5, I think my forms, index and etc. will all look better, because I'll have had more time to practice and I'll be faster, and more efficient. 
