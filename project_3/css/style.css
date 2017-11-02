@@ -1,6 +1,6 @@
 /*Title font, fancy and cursive*/
-@import url('https://fonts.googleapis.com/css?family=Satisfy');
-*{font-family: 'Satisfy', cursive;
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand+SC');
+*{font-family: 'Patrick Hand SC', cursive;
 }
 
 /*regular paragraph font*/
@@ -10,11 +10,13 @@
 
 .main-heading {
 
-   font-family: 'Satisfy', cursive;
+   font-family: 'Patrick Hand SC', cursive;
    font-size: 3em;
    color: #13181E;
 }
 
 .content {
     font-family: 'Alegreya Sans', sans-serif;
+    font-size: 1em;
+    color: #13181E;
 }
