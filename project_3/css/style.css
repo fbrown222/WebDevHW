@@ -22,5 +22,5 @@
 body {
     background: url("../images/left_branches.png") left repeat-y,
     url("../images/right_branches.png") right repeat-y;
-
+    background-size: 50%; 
 }
