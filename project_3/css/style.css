@@ -20,7 +20,8 @@
     color: #13181E;
 }
 body {
-    background-image: url("../images/tree_branches2.png");
+    background-image: url("../images/left_branches.png") left repeat,
+    url("../images/right_branches.png") right repeat;
     background-repeat: repeat-y;
     background-size: 50%;
 }
