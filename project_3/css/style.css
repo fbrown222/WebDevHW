@@ -22,4 +22,5 @@
 body {
     background-image: url("../images/tree_branches2.png");
     background-repeat: repeat-y;
+    background-size: 50%;
 }
