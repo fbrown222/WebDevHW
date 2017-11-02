@@ -19,8 +19,16 @@
     font-size: 1em;
     color: #13181E;
 }
+.text-block::first-letter {
+    font-size: 4em;
+    font-weight: 700;
+    color: rgb(174, 117, 98);
+}
+
 body {
     background: url("../images/left_branches.png") left repeat-y,
     url("../images/right_branches.png") right repeat-y;
-    background-size: 3%; 
+    background-size: 10%;
+    background-color: #D5A988;
+
 }
