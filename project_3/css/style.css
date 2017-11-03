@@ -22,7 +22,7 @@
 .text-block::first-letter {
     font-size: 4em;
     font-weight: 700;
-    color: rgb(174, 117, 98);
+    color: #13181E;
 }
 
 .left {
