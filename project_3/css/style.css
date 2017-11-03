@@ -25,6 +25,19 @@
     color: rgb(174, 117, 98);
 }
 
+.left {
+   text-align: left;
+}
+.right {
+   text-align: right;
+}
+.center {
+   text-align: center;
+}
+.justify {
+   text-align: justify;
+}
+
 body {
   background-color: #D5A988;
     background: url("../images/left_branches.png") left repeat-y,
@@ -44,11 +57,11 @@ body {
     font-size: 1em;
     background-image: url("../images/mad_doctor.png");
     background-position: center center;
-    background-size: cover;
+    background-size: 500, 300;
     color: rgb(174, 117, 98);
     text-transform: uppercase;
     font-weight: bold;
-    text-align: justify;
+    text-align: center;
     letter-spacing: 0.2em;
     padding: 0em;
     height: 75%;
