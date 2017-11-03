@@ -38,6 +38,14 @@
    text-align: justify;
 }
 
+.quote div {
+   font-size: 1em;
+   background-color: rgb(174, 117, 98);
+   color: #13181E;
+   margin: 1em;
+   padding: 1em;
+}
+
 body {
   background-color: #D5A988;
     background: url("../images/left_branches.png") left repeat-y,
