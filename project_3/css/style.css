@@ -57,8 +57,9 @@ body {
     font-size: 1em;
     background-image: url("../images/mad_doctor.png");
     background-position: center center;
-    background-size: 500, 300;
-    color: rgb(174, 117, 98);
+    background-size: contain;
+   background-repeat: no-repeat;
+   color: rgb(174, 117, 98);
     text-transform: uppercase;
     font-weight: bold;
     text-align: center;
