@@ -52,6 +52,7 @@ body {
     color: #13181E;
     padding: 1em;
     text-align: center;
+    width: 400px;
 }
 .hover-element:hover {
     font-size: 1em;
@@ -65,5 +66,5 @@ body {
     text-align: center;
     letter-spacing: 0.2em;
     padding: 0em;
-    height: 75%;
+    height: 400px;
 }
