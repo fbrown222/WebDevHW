@@ -26,3 +26,8 @@ Contrary to Hollywood depictions, the "monster", reffered to as "the creature" i
 I would like to have a gothic style to the website, as Shelley's work is a "gothic novel". So, I'd like to incorporate gothic archictecture into the interface (i.e. gothic cathedral windows for buttons). Silhouetted bare tree limbs against a dark background would also help to create the ominous feeling that Frankenstein has. Here is my mood board for inspiration.
 
 ![image of Frankstein Site mood board](./images/ShelleyMoodBoard.png)
+
+---
+## Week Two
+
+This week I went forth with my color scheme and I really think it worked well. As for my font choices I wanted to do something cursive that brought back some Gothic spirit, but I didn't want to choose something I couldn't read. You know there's always that person's cursive you can't read because its too fancy (looking at you, mom). So I choose something to keep the old-style spirit for just titles and reviews but its still legible. And I didn't want to go too crazy for the main content font, so I chose a nice san-serif font thats easy to read.  
