@@ -8,6 +8,98 @@
 *{font-family: 'Alegreya Sans', sans-serif;
 }
 
+header {
+    margin: 0 0 2em 0;
+    padding: 0;
+}
+
+.menu-container {
+    background-color: rgb(174, 117, 98);
+    margin: 0;
+    padding: 0;
+}
+
+.menu-item {
+    display: inline-block;
+    width: 4em;
+    padding: 0.5em 1em;
+    text-align: center;
+    text-decoration: none;
+    color: #13181E;
+    margin: auto;
+}
+
+.menu-item:hover, .dropdown:hover {
+    color: #13181E;
+    background-color: rgb(174, 117, 98);
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+    color: #13181E;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0;
+    color: #13181E;
+    background-color: rgb(174, 117, 98);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #13181E;
+    text-decoration: none;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    min-width: 7em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #13181E;
+    background-color: rgb(174, 117, 98);
+}
+
+
+
+.lower-header {
+    margin: 0;
+    background-color: rgb(174, 117, 98);
+    height: 110px;
+}
+
+.site-name {
+    float: left;
+    padding: 25px 10px;
+    margin-left: 0.5em;
+    font-weight: lighter;
+    font-size: 2.5em;
+    color: #13181E;
+}
+
+.site-logo {
+    font-size: 2.5em;
+    float: right;
+    padding: 15px 10px;
+    margin-right: 0.25em;
+}
+
+.site-logo img {
+    height: 80px;
+}
+
 .main-heading {
    font-family: 'Patrick Hand SC', cursive;
    font-size: 3em;
