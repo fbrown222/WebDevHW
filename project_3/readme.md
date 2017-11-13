@@ -30,4 +30,10 @@ I would like to have a gothic style to the website, as Shelley's work is a "goth
 ---
 ## Week Two
 
-This week I went forth with my color scheme and I really think it worked well. As for my font choices I wanted to do something cursive that brought back some Gothic spirit, but I didn't want to choose something I couldn't read. You know there's always that person's cursive you can't read because its too fancy (looking at you, mom). So I choose something to keep the old-style spirit for just titles and reviews but its still legible. And I didn't want to go too crazy for the main content font, so I chose a nice san-serif font thats easy to read.  
+This week I went forth with my color scheme and I really think it worked well. As for my font choices I wanted to do something cursive that brought back some Gothic spirit, but I didn't want to choose something I couldn't read. You know there's always that person's cursive you can't read because its too fancy (looking at you, mom). So I choose something to keep the old-style spirit for just titles and reviews but its still legible. And I didn't want to go too crazy for the main content font, so I chose a nice san-serif font thats easy to read.
+
+
+---
+## FINALLY Week Three!
+
+I don't know why, but for some reason, setting up my CSS style page was really stressful. I know its supposed to make it easier to style all your other pages all at once, but...geez. Essentially, I know this is all new to me, and so its kind of "scary". I'm freaking out more than I have to. I think I just want to learn as much as I can, and be good at it too hastily. So other than the emotional impacts of this project, I learned a lot and I think my very amateur website turned out okay. It's not one I'd like to put in a portfolio by any means, but its a start to something at least. 
