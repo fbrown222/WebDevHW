@@ -182,6 +182,18 @@ body {
     height: 400px;
 }
 
+.main-container aside.content-side {
+    float: right;
+    margin: 2em;
+    margin-top: 4em;
+    padding: 0;
+    width: 25%;
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #13181E;
+    background-color: rgb(174, 117, 98);
+    font-weight: normal;
+}
+
 aside .aside-head {
     font-size: 1em;
     text-align: center;
