@@ -181,3 +181,23 @@ body {
     padding: 0em;
     height: 400px;
 }
+
+aside .aside-head {
+    font-size: 1em;
+    text-align: center;
+    padding: 1em;
+    background-color: rgb(174, 117, 98);
+}
+
+aside .aside-text {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+aside .aside-text p {
+    font-style: normal;
+    padding: 0.25em 1em;
+    margin: 0;
+    text-align: left;
+    color: #13181E;
+}
