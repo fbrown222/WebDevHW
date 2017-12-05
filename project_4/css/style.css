@@ -8,7 +8,7 @@
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 0px 0px;
     text-decoration: none;
     font-size: 17px;
 }
@@ -92,3 +92,9 @@ body {
 
     }
 }
+
+.image img {
+      align-content: center;
+      height: auto;
+      max-width: 100%;
+		}
